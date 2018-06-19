@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Modules/10.40/Scenes/10.40-41Lab.unity
+  isLoaded: 1
+  isActive: 1
